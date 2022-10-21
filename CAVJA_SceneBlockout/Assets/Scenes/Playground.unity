@@ -203,6 +203,11 @@ PrefabInstance:
       propertyPath: m_Name
       value: mushroom_redGroup (4)
       objectReference: {fileID: 0}
+    - target: {fileID: 919132149155446097, guid: 756507f7c0ca40641a5ff09741d1d843,
+        type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 2147483647
+      objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 756507f7c0ca40641a5ff09741d1d843, type: 3}
 --- !u!1001 &12253818
@@ -297,6 +302,11 @@ PrefabInstance:
       propertyPath: m_Name
       value: cliff_halfCornerInner_rock (2)
       objectReference: {fileID: 0}
+    - target: {fileID: 919132149155446097, guid: a006d8da6e4ea4e46a5636a427ca19b3,
+        type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 2147483647
+      objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: a006d8da6e4ea4e46a5636a427ca19b3, type: 3}
 --- !u!1 &18513690 stripped
@@ -388,6 +398,11 @@ PrefabInstance:
         type: 3}
       propertyPath: m_Name
       value: mushroom_redGroup (1)
+      objectReference: {fileID: 0}
+    - target: {fileID: 919132149155446097, guid: 756507f7c0ca40641a5ff09741d1d843,
+        type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 2147483647
       objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 756507f7c0ca40641a5ff09741d1d843, type: 3}
@@ -534,6 +549,11 @@ PrefabInstance:
       propertyPath: m_Name
       value: cliff_blockHalf_rock (17)
       objectReference: {fileID: 0}
+    - target: {fileID: 919132149155446097, guid: 81059eb4084a34d4893a66276bb2f000,
+        type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 2147483647
+      objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 81059eb4084a34d4893a66276bb2f000, type: 3}
 --- !u!4 &45098586 stripped
@@ -633,6 +653,11 @@ PrefabInstance:
       propertyPath: m_Name
       value: crops_cornStageA (1)
       objectReference: {fileID: 0}
+    - target: {fileID: 919132149155446097, guid: e761f88444e0fb043b26f4db67bf33d7,
+        type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 2147483647
+      objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: e761f88444e0fb043b26f4db67bf33d7, type: 3}
 --- !u!1001 &63780228
@@ -711,6 +736,11 @@ PrefabInstance:
         type: 3}
       propertyPath: m_Name
       value: crop_turnip
+      objectReference: {fileID: 0}
+    - target: {fileID: 919132149155446097, guid: 8a9c38c534e07e14aa047bab2b5b409e,
+        type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 2147483647
       objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 8a9c38c534e07e14aa047bab2b5b409e, type: 3}
@@ -796,6 +826,11 @@ PrefabInstance:
         type: 3}
       propertyPath: m_Name
       value: rock_tallD
+      objectReference: {fileID: 0}
+    - target: {fileID: 919132149155446097, guid: 370380ca6b7a52c41b1fb9dd460fe905,
+        type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 2147483647
       objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 370380ca6b7a52c41b1fb9dd460fe905, type: 3}
@@ -901,6 +936,11 @@ PrefabInstance:
         type: 3}
       propertyPath: m_Name
       value: crops_leafsStageA (1)
+      objectReference: {fileID: 0}
+    - target: {fileID: 919132149155446097, guid: eb725d40f93d6544396781a9dfe2f970,
+        type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 2147483647
       objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: eb725d40f93d6544396781a9dfe2f970, type: 3}
@@ -1027,7 +1067,7 @@ GameObject:
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
-  m_StaticEditorFlags: 0
+  m_StaticEditorFlags: 2147483647
   m_IsActive: 1
 --- !u!4 &108165468
 Transform:
@@ -1135,6 +1175,11 @@ PrefabInstance:
         type: 3}
       propertyPath: m_Name
       value: crops_leafsStageB (11)
+      objectReference: {fileID: 0}
+    - target: {fileID: 919132149155446097, guid: 5d482b15f687d5f48832d4fe252b81e5,
+        type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 2147483647
       objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 5d482b15f687d5f48832d4fe252b81e5, type: 3}
@@ -1337,6 +1382,11 @@ PrefabInstance:
       propertyPath: m_Name
       value: crops_leafsStageB (5)
       objectReference: {fileID: 0}
+    - target: {fileID: 919132149155446097, guid: 5d482b15f687d5f48832d4fe252b81e5,
+        type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 2147483647
+      objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 5d482b15f687d5f48832d4fe252b81e5, type: 3}
 --- !u!4 &154466809 stripped
@@ -1443,6 +1493,11 @@ PrefabInstance:
       propertyPath: m_Name
       value: terrain_sideCliff (4)
       objectReference: {fileID: 0}
+    - target: {fileID: 919132149155446097, guid: 42ec08e1ca9d27c4a843260f1919aa25,
+        type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 2147483647
+      objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 42ec08e1ca9d27c4a843260f1919aa25, type: 3}
 --- !u!4 &179882315 stripped
@@ -1523,6 +1578,11 @@ PrefabInstance:
       propertyPath: m_Name
       value: crops_leafsStageB (15)
       objectReference: {fileID: 0}
+    - target: {fileID: 919132149155446097, guid: 5d482b15f687d5f48832d4fe252b81e5,
+        type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 2147483647
+      objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 5d482b15f687d5f48832d4fe252b81e5, type: 3}
 --- !u!1001 &186873626
@@ -1596,6 +1656,11 @@ PrefabInstance:
         type: 3}
       propertyPath: m_Name
       value: crops_leafsStageB (12)
+      objectReference: {fileID: 0}
+    - target: {fileID: 919132149155446097, guid: 5d482b15f687d5f48832d4fe252b81e5,
+        type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 2147483647
       objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 5d482b15f687d5f48832d4fe252b81e5, type: 3}
@@ -1692,6 +1757,11 @@ PrefabInstance:
       propertyPath: m_Name
       value: cliff_blockHalf_rock (6)
       objectReference: {fileID: 0}
+    - target: {fileID: 919132149155446097, guid: 81059eb4084a34d4893a66276bb2f000,
+        type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 2147483647
+      objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 81059eb4084a34d4893a66276bb2f000, type: 3}
 --- !u!1 &205541277
@@ -1710,7 +1780,7 @@ GameObject:
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
-  m_StaticEditorFlags: 0
+  m_StaticEditorFlags: 2147483647
   m_IsActive: 1
 --- !u!114 &205541278
 MonoBehaviour:
@@ -1783,7 +1853,7 @@ Light:
     serializedVersion: 2
     m_Bits: 4294967295
   m_RenderingLayerMask: 1
-  m_Lightmapping: 4
+  m_Lightmapping: 2
   m_LightShadowCasterMode: 0
   m_AreaSize: {x: 1, y: 1}
   m_BounceIntensity: 1
@@ -1907,6 +1977,11 @@ PrefabInstance:
       propertyPath: m_Name
       value: crops_leafsStageB
       objectReference: {fileID: 0}
+    - target: {fileID: 919132149155446097, guid: 5d482b15f687d5f48832d4fe252b81e5,
+        type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 2147483647
+      objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 5d482b15f687d5f48832d4fe252b81e5, type: 3}
 --- !u!1 &220240122
@@ -2022,6 +2097,11 @@ PrefabInstance:
       propertyPath: m_Name
       value: crops_leafsStageB (3)
       objectReference: {fileID: 0}
+    - target: {fileID: 919132149155446097, guid: 5d482b15f687d5f48832d4fe252b81e5,
+        type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 2147483647
+      objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 5d482b15f687d5f48832d4fe252b81e5, type: 3}
 --- !u!1001 &239527074
@@ -2115,6 +2195,11 @@ PrefabInstance:
         type: 3}
       propertyPath: m_Name
       value: terrain_sideCliff (10)
+      objectReference: {fileID: 0}
+    - target: {fileID: 919132149155446097, guid: 42ec08e1ca9d27c4a843260f1919aa25,
+        type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 2147483647
       objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 42ec08e1ca9d27c4a843260f1919aa25, type: 3}
@@ -2216,6 +2301,11 @@ PrefabInstance:
       propertyPath: m_Name
       value: rock_tallB (7)
       objectReference: {fileID: 0}
+    - target: {fileID: 919132149155446097, guid: 8fc30653c71ef4e47b3bcd51d25dfaf2,
+        type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 2147483647
+      objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 8fc30653c71ef4e47b3bcd51d25dfaf2, type: 3}
 --- !u!1001 &251575590
@@ -2310,6 +2400,11 @@ PrefabInstance:
       propertyPath: m_Name
       value: cliff_blockHalf_rock (8)
       objectReference: {fileID: 0}
+    - target: {fileID: 919132149155446097, guid: 81059eb4084a34d4893a66276bb2f000,
+        type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 2147483647
+      objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 81059eb4084a34d4893a66276bb2f000, type: 3}
 --- !u!4 &255230049 stripped
@@ -2402,6 +2497,11 @@ PrefabInstance:
       propertyPath: m_Name
       value: crops_leafsStageB (4)
       objectReference: {fileID: 0}
+    - target: {fileID: 919132149155446097, guid: 5d482b15f687d5f48832d4fe252b81e5,
+        type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 2147483647
+      objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 5d482b15f687d5f48832d4fe252b81e5, type: 3}
 --- !u!1001 &286806949
@@ -2466,6 +2566,11 @@ PrefabInstance:
       propertyPath: m_LocalEulerAnglesHint.z
       value: 0
       objectReference: {fileID: 0}
+    - target: {fileID: -7631519033783230797, guid: 71688dba56c231b40b386b6462cd62a9,
+        type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 2147483647
+      objectReference: {fileID: 0}
     - target: {fileID: -7511558181221131132, guid: 71688dba56c231b40b386b6462cd62a9,
         type: 3}
       propertyPath: m_Materials.Array.data[2]
@@ -2475,6 +2580,16 @@ PrefabInstance:
         type: 3}
       propertyPath: m_Name
       value: hangar_smallA
+      objectReference: {fileID: 0}
+    - target: {fileID: 919132149155446097, guid: 71688dba56c231b40b386b6462cd62a9,
+        type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 2147483647
+      objectReference: {fileID: 0}
+    - target: {fileID: 4629838243058712215, guid: 71688dba56c231b40b386b6462cd62a9,
+        type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 2147483647
       objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 71688dba56c231b40b386b6462cd62a9, type: 3}
@@ -2576,6 +2691,11 @@ PrefabInstance:
       propertyPath: m_Name
       value: rock
       objectReference: {fileID: 0}
+    - target: {fileID: 919132149155446097, guid: 6021465eae9e6e54092a38593424132c,
+        type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 2147483647
+      objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 6021465eae9e6e54092a38593424132c, type: 3}
 --- !u!4 &294442140 stripped
@@ -2655,6 +2775,11 @@ PrefabInstance:
         type: 3}
       propertyPath: m_Name
       value: crops_leafsStageA (9)
+      objectReference: {fileID: 0}
+    - target: {fileID: 919132149155446097, guid: eb725d40f93d6544396781a9dfe2f970,
+        type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 2147483647
       objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: eb725d40f93d6544396781a9dfe2f970, type: 3}
@@ -2776,6 +2901,11 @@ PrefabInstance:
       propertyPath: m_Name
       value: cliff_halfCornerInner_rock (3)
       objectReference: {fileID: 0}
+    - target: {fileID: 919132149155446097, guid: a006d8da6e4ea4e46a5636a427ca19b3,
+        type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 2147483647
+      objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: a006d8da6e4ea4e46a5636a427ca19b3, type: 3}
 --- !u!4 &308552987 stripped
@@ -2867,6 +2997,11 @@ PrefabInstance:
       propertyPath: m_Name
       value: mushroom_redGroup (7)
       objectReference: {fileID: 0}
+    - target: {fileID: 919132149155446097, guid: 756507f7c0ca40641a5ff09741d1d843,
+        type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 2147483647
+      objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 756507f7c0ca40641a5ff09741d1d843, type: 3}
 --- !u!1001 &324278340
@@ -2940,6 +3075,11 @@ PrefabInstance:
         type: 3}
       propertyPath: m_Name
       value: crops_leafsStageA
+      objectReference: {fileID: 0}
+    - target: {fileID: 919132149155446097, guid: eb725d40f93d6544396781a9dfe2f970,
+        type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 2147483647
       objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: eb725d40f93d6544396781a9dfe2f970, type: 3}
@@ -3019,6 +3159,11 @@ PrefabInstance:
         type: 3}
       propertyPath: m_Name
       value: mushroom_redGroup (2)
+      objectReference: {fileID: 0}
+    - target: {fileID: 919132149155446097, guid: 756507f7c0ca40641a5ff09741d1d843,
+        type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 2147483647
       objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 756507f7c0ca40641a5ff09741d1d843, type: 3}
@@ -3113,6 +3258,11 @@ PrefabInstance:
         type: 3}
       propertyPath: m_Name
       value: cliff_blockHalf_rock (16)
+      objectReference: {fileID: 0}
+    - target: {fileID: 919132149155446097, guid: 81059eb4084a34d4893a66276bb2f000,
+        type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 2147483647
       objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 81059eb4084a34d4893a66276bb2f000, type: 3}
@@ -3218,6 +3368,11 @@ PrefabInstance:
       propertyPath: m_Name
       value: mushroom_red (1)
       objectReference: {fileID: 0}
+    - target: {fileID: 919132149155446097, guid: 990f530588588394781543628d7b3533,
+        type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 2147483647
+      objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 990f530588588394781543628d7b3533, type: 3}
 --- !u!1001 &361592423
@@ -3291,6 +3446,11 @@ PrefabInstance:
         type: 3}
       propertyPath: m_Name
       value: rail_corner
+      objectReference: {fileID: 0}
+    - target: {fileID: 919132149155446097, guid: 0e6488e20d90ba84799cf4af50828ae9,
+        type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 2147483647
       objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 0e6488e20d90ba84799cf4af50828ae9, type: 3}
@@ -3386,6 +3546,11 @@ PrefabInstance:
       propertyPath: m_Name
       value: cliff_blockQuarter_stone (3)
       objectReference: {fileID: 0}
+    - target: {fileID: 919132149155446097, guid: 51804497169438c4690efdca25e36621,
+        type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 2147483647
+      objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 51804497169438c4690efdca25e36621, type: 3}
 --- !u!1001 &378335629
@@ -3459,6 +3624,11 @@ PrefabInstance:
         type: 3}
       propertyPath: m_Name
       value: crops_leafsStageB (14)
+      objectReference: {fileID: 0}
+    - target: {fileID: 919132149155446097, guid: 5d482b15f687d5f48832d4fe252b81e5,
+        type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 2147483647
       objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 5d482b15f687d5f48832d4fe252b81e5, type: 3}
@@ -3553,6 +3723,11 @@ PrefabInstance:
         type: 3}
       propertyPath: m_Name
       value: terrain_sideCliff (7)
+      objectReference: {fileID: 0}
+    - target: {fileID: 919132149155446097, guid: 42ec08e1ca9d27c4a843260f1919aa25,
+        type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 2147483647
       objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 42ec08e1ca9d27c4a843260f1919aa25, type: 3}
@@ -3665,6 +3840,11 @@ PrefabInstance:
         type: 3}
       propertyPath: m_Name
       value: cliff_blockHalf_rock (12)
+      objectReference: {fileID: 0}
+    - target: {fileID: 919132149155446097, guid: 81059eb4084a34d4893a66276bb2f000,
+        type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 2147483647
       objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 81059eb4084a34d4893a66276bb2f000, type: 3}
@@ -3810,6 +3990,11 @@ PrefabInstance:
       propertyPath: m_Name
       value: terrain_sideCliff (2)
       objectReference: {fileID: 0}
+    - target: {fileID: 919132149155446097, guid: 42ec08e1ca9d27c4a843260f1919aa25,
+        type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 2147483647
+      objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 42ec08e1ca9d27c4a843260f1919aa25, type: 3}
 --- !u!4 &428799738 stripped
@@ -3946,6 +4131,11 @@ PrefabInstance:
         type: 3}
       propertyPath: m_Name
       value: mushroom_redGroup (3)
+      objectReference: {fileID: 0}
+    - target: {fileID: 919132149155446097, guid: 756507f7c0ca40641a5ff09741d1d843,
+        type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 2147483647
       objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 756507f7c0ca40641a5ff09741d1d843, type: 3}
@@ -4086,6 +4276,11 @@ PrefabInstance:
       propertyPath: m_Name
       value: terrain_sideCliff (15)
       objectReference: {fileID: 0}
+    - target: {fileID: 919132149155446097, guid: 42ec08e1ca9d27c4a843260f1919aa25,
+        type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 2147483647
+      objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 42ec08e1ca9d27c4a843260f1919aa25, type: 3}
 --- !u!4 &462761007 stripped
@@ -4190,6 +4385,11 @@ PrefabInstance:
       propertyPath: m_Name
       value: rock_crystalsLargeA
       objectReference: {fileID: 0}
+    - target: {fileID: 919132149155446097, guid: eb7d792a21d94f8429e936ab6d13811e,
+        type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 2147483647
+      objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: eb7d792a21d94f8429e936ab6d13811e, type: 3}
 --- !u!1001 &472901116
@@ -4263,6 +4463,11 @@ PrefabInstance:
         type: 3}
       propertyPath: m_Name
       value: crops_leafsStageB (1)
+      objectReference: {fileID: 0}
+    - target: {fileID: 919132149155446097, guid: 5d482b15f687d5f48832d4fe252b81e5,
+        type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 2147483647
       objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 5d482b15f687d5f48832d4fe252b81e5, type: 3}
@@ -4353,6 +4558,11 @@ PrefabInstance:
       propertyPath: m_Name
       value: cliff_blockHalf_rock (9)
       objectReference: {fileID: 0}
+    - target: {fileID: 919132149155446097, guid: 81059eb4084a34d4893a66276bb2f000,
+        type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 2147483647
+      objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 81059eb4084a34d4893a66276bb2f000, type: 3}
 --- !u!1001 &484077766
@@ -4426,6 +4636,11 @@ PrefabInstance:
         type: 3}
       propertyPath: m_Name
       value: crops_leafsStageB (9)
+      objectReference: {fileID: 0}
+    - target: {fileID: 919132149155446097, guid: 5d482b15f687d5f48832d4fe252b81e5,
+        type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 2147483647
       objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 5d482b15f687d5f48832d4fe252b81e5, type: 3}
@@ -4521,6 +4736,11 @@ PrefabInstance:
       propertyPath: m_Name
       value: terrain_sideCliff (16)
       objectReference: {fileID: 0}
+    - target: {fileID: 919132149155446097, guid: 42ec08e1ca9d27c4a843260f1919aa25,
+        type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 2147483647
+      objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 42ec08e1ca9d27c4a843260f1919aa25, type: 3}
 --- !u!4 &496977121 stripped
@@ -4612,6 +4832,11 @@ PrefabInstance:
         type: 3}
       propertyPath: m_Name
       value: crops_leafsStageA (3)
+      objectReference: {fileID: 0}
+    - target: {fileID: 919132149155446097, guid: eb725d40f93d6544396781a9dfe2f970,
+        type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 2147483647
       objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: eb725d40f93d6544396781a9dfe2f970, type: 3}
@@ -4745,6 +4970,11 @@ PrefabInstance:
       propertyPath: m_Name
       value: rock_tallB (5)
       objectReference: {fileID: 0}
+    - target: {fileID: 919132149155446097, guid: 8fc30653c71ef4e47b3bcd51d25dfaf2,
+        type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 2147483647
+      objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 8fc30653c71ef4e47b3bcd51d25dfaf2, type: 3}
 --- !u!1001 &596996520
@@ -4819,6 +5049,11 @@ PrefabInstance:
       propertyPath: m_Name
       value: crops_leafsStageA (5)
       objectReference: {fileID: 0}
+    - target: {fileID: 919132149155446097, guid: eb725d40f93d6544396781a9dfe2f970,
+        type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 2147483647
+      objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: eb725d40f93d6544396781a9dfe2f970, type: 3}
 --- !u!1001 &614128747
@@ -4892,6 +5127,11 @@ PrefabInstance:
         type: 3}
       propertyPath: m_Name
       value: crops_leafsStageB (8)
+      objectReference: {fileID: 0}
+    - target: {fileID: 919132149155446097, guid: 5d482b15f687d5f48832d4fe252b81e5,
+        type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 2147483647
       objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 5d482b15f687d5f48832d4fe252b81e5, type: 3}
@@ -4987,6 +5227,11 @@ PrefabInstance:
       propertyPath: m_Name
       value: terrain_sideCliff (17)
       objectReference: {fileID: 0}
+    - target: {fileID: 919132149155446097, guid: 42ec08e1ca9d27c4a843260f1919aa25,
+        type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 2147483647
+      objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 42ec08e1ca9d27c4a843260f1919aa25, type: 3}
 --- !u!4 &618586270 stripped
@@ -5023,7 +5268,7 @@ GameObject:
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
-  m_StaticEditorFlags: 0
+  m_StaticEditorFlags: 2147483647
   m_IsActive: 1
 --- !u!4 &635327465
 Transform:
@@ -5209,6 +5454,11 @@ PrefabInstance:
       propertyPath: m_Name
       value: rock_crystalsLargeB (1)
       objectReference: {fileID: 0}
+    - target: {fileID: 919132149155446097, guid: e0000b9dbaa1f8649846a6e38d2efe8e,
+        type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 2147483647
+      objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: e0000b9dbaa1f8649846a6e38d2efe8e, type: 3}
 --- !u!1001 &691947750
@@ -5287,6 +5537,11 @@ PrefabInstance:
         type: 3}
       propertyPath: m_Name
       value: mushroom_redGroup (6)
+      objectReference: {fileID: 0}
+    - target: {fileID: 919132149155446097, guid: 756507f7c0ca40641a5ff09741d1d843,
+        type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 2147483647
       objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 756507f7c0ca40641a5ff09741d1d843, type: 3}
@@ -5367,6 +5622,11 @@ PrefabInstance:
       propertyPath: m_Name
       value: cliff_diagonal_rock (1)
       objectReference: {fileID: 0}
+    - target: {fileID: 919132149155446097, guid: e38a2aeee5fe0bd45a527b9d62a4d970,
+        type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 2147483647
+      objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: e38a2aeee5fe0bd45a527b9d62a4d970, type: 3}
 --- !u!1001 &712399435
@@ -5445,6 +5705,11 @@ PrefabInstance:
         type: 3}
       propertyPath: m_Name
       value: mushroom_red
+      objectReference: {fileID: 0}
+    - target: {fileID: 919132149155446097, guid: 990f530588588394781543628d7b3533,
+        type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 2147483647
       objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 990f530588588394781543628d7b3533, type: 3}
@@ -5540,6 +5805,11 @@ PrefabInstance:
       propertyPath: m_Name
       value: cliff_blockCave_rock
       objectReference: {fileID: 0}
+    - target: {fileID: 919132149155446097, guid: 85f32a1674396dd4f94eca123087bb65,
+        type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 2147483647
+      objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 85f32a1674396dd4f94eca123087bb65, type: 3}
 --- !u!1001 &724384124
@@ -5634,6 +5904,11 @@ PrefabInstance:
       propertyPath: m_Name
       value: rock (1)
       objectReference: {fileID: 0}
+    - target: {fileID: 919132149155446097, guid: 6021465eae9e6e54092a38593424132c,
+        type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 2147483647
+      objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 6021465eae9e6e54092a38593424132c, type: 3}
 --- !u!1 &726182114 stripped
@@ -5718,6 +5993,11 @@ PrefabInstance:
         type: 3}
       propertyPath: m_Name
       value: mushroom_red (3)
+      objectReference: {fileID: 0}
+    - target: {fileID: 919132149155446097, guid: 990f530588588394781543628d7b3533,
+        type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 2147483647
       objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 990f530588588394781543628d7b3533, type: 3}
@@ -5883,6 +6163,11 @@ PrefabInstance:
       propertyPath: m_Name
       value: crops_leafsStageB (6)
       objectReference: {fileID: 0}
+    - target: {fileID: 919132149155446097, guid: 5d482b15f687d5f48832d4fe252b81e5,
+        type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 2147483647
+      objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 5d482b15f687d5f48832d4fe252b81e5, type: 3}
 --- !u!1 &761033464 stripped
@@ -6035,6 +6320,11 @@ PrefabInstance:
       propertyPath: m_Name
       value: cliff_blockHalf_rock (18)
       objectReference: {fileID: 0}
+    - target: {fileID: 919132149155446097, guid: 81059eb4084a34d4893a66276bb2f000,
+        type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 2147483647
+      objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 81059eb4084a34d4893a66276bb2f000, type: 3}
 --- !u!4 &794558647 stripped
@@ -6157,6 +6447,11 @@ PrefabInstance:
         type: 3}
       propertyPath: m_Name
       value: rocks_smallA
+      objectReference: {fileID: 0}
+    - target: {fileID: 919132149155446097, guid: 232ef9caa82453f4aa0bc779766f740c,
+        type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 2147483647
       objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 232ef9caa82453f4aa0bc779766f740c, type: 3}
@@ -11665,6 +11960,11 @@ PrefabInstance:
       propertyPath: m_Name
       value: cliff_blockHalf_rock (5)
       objectReference: {fileID: 0}
+    - target: {fileID: 919132149155446097, guid: 81059eb4084a34d4893a66276bb2f000,
+        type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 2147483647
+      objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 81059eb4084a34d4893a66276bb2f000, type: 3}
 --- !u!1 &925886203 stripped
@@ -11784,6 +12084,11 @@ PrefabInstance:
         type: 3}
       propertyPath: m_Name
       value: cliff_blockHalf_rock (14)
+      objectReference: {fileID: 0}
+    - target: {fileID: 919132149155446097, guid: 81059eb4084a34d4893a66276bb2f000,
+        type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 2147483647
       objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 81059eb4084a34d4893a66276bb2f000, type: 3}
@@ -11930,6 +12235,11 @@ PrefabInstance:
       propertyPath: m_Name
       value: rock_tallB (3)
       objectReference: {fileID: 0}
+    - target: {fileID: 919132149155446097, guid: 8fc30653c71ef4e47b3bcd51d25dfaf2,
+        type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 2147483647
+      objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 8fc30653c71ef4e47b3bcd51d25dfaf2, type: 3}
 --- !u!1 &970112319 stripped
@@ -12029,6 +12339,11 @@ PrefabInstance:
         type: 3}
       propertyPath: m_Name
       value: crops_cornStageA
+      objectReference: {fileID: 0}
+    - target: {fileID: 919132149155446097, guid: e761f88444e0fb043b26f4db67bf33d7,
+        type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 2147483647
       objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: e761f88444e0fb043b26f4db67bf33d7, type: 3}
@@ -12141,6 +12456,11 @@ PrefabInstance:
         type: 3}
       propertyPath: m_Name
       value: cliff_blockHalf_rock (13)
+      objectReference: {fileID: 0}
+    - target: {fileID: 919132149155446097, guid: 81059eb4084a34d4893a66276bb2f000,
+        type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 2147483647
       objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 81059eb4084a34d4893a66276bb2f000, type: 3}
@@ -12265,6 +12585,11 @@ PrefabInstance:
         type: 3}
       propertyPath: m_Name
       value: rock_crystalsLargeB
+      objectReference: {fileID: 0}
+    - target: {fileID: 919132149155446097, guid: e0000b9dbaa1f8649846a6e38d2efe8e,
+        type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 2147483647
       objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: e0000b9dbaa1f8649846a6e38d2efe8e, type: 3}
@@ -12427,6 +12752,11 @@ PrefabInstance:
       propertyPath: m_Name
       value: terrain (1)
       objectReference: {fileID: 0}
+    - target: {fileID: 919132149155446097, guid: c7caef31419092c4d8ebf668d5e88e71,
+        type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 2147483647
+      objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: c7caef31419092c4d8ebf668d5e88e71, type: 3}
 --- !u!4 &1029199999 stripped
@@ -12557,6 +12887,11 @@ PrefabInstance:
       propertyPath: m_Name
       value: mushroom_redGroup (8)
       objectReference: {fileID: 0}
+    - target: {fileID: 919132149155446097, guid: 756507f7c0ca40641a5ff09741d1d843,
+        type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 2147483647
+      objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 756507f7c0ca40641a5ff09741d1d843, type: 3}
 --- !u!4 &1047919595 stripped
@@ -12656,6 +12991,11 @@ PrefabInstance:
         type: 3}
       propertyPath: m_Name
       value: platform_grass
+      objectReference: {fileID: 0}
+    - target: {fileID: 919132149155446097, guid: 7fca4422e5a014946a8e69381fa098da,
+        type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 2147483647
       objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 7fca4422e5a014946a8e69381fa098da, type: 3}
@@ -12808,6 +13148,11 @@ PrefabInstance:
       propertyPath: m_Name
       value: terrain_sideCliff (9)
       objectReference: {fileID: 0}
+    - target: {fileID: 919132149155446097, guid: 42ec08e1ca9d27c4a843260f1919aa25,
+        type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 2147483647
+      objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 42ec08e1ca9d27c4a843260f1919aa25, type: 3}
 --- !u!4 &1115197114 stripped
@@ -12909,6 +13254,11 @@ PrefabInstance:
       propertyPath: m_Name
       value: cliff_blockHalf_rock (7)
       objectReference: {fileID: 0}
+    - target: {fileID: 919132149155446097, guid: 81059eb4084a34d4893a66276bb2f000,
+        type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 2147483647
+      objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 81059eb4084a34d4893a66276bb2f000, type: 3}
 --- !u!1001 &1149257324
@@ -12982,6 +13332,11 @@ PrefabInstance:
         type: 3}
       propertyPath: m_Name
       value: corridor
+      objectReference: {fileID: 0}
+    - target: {fileID: 919132149155446097, guid: 9a6722df2e030804b91b96b27713d7cb,
+        type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 2147483647
       objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 9a6722df2e030804b91b96b27713d7cb, type: 3}
@@ -13097,6 +13452,11 @@ PrefabInstance:
       propertyPath: m_Name
       value: rock_tallB (4)
       objectReference: {fileID: 0}
+    - target: {fileID: 919132149155446097, guid: 8fc30653c71ef4e47b3bcd51d25dfaf2,
+        type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 2147483647
+      objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 8fc30653c71ef4e47b3bcd51d25dfaf2, type: 3}
 --- !u!1001 &1167571360
@@ -13190,6 +13550,11 @@ PrefabInstance:
         type: 3}
       propertyPath: m_Name
       value: terrain_sideCliff (6)
+      objectReference: {fileID: 0}
+    - target: {fileID: 919132149155446097, guid: 42ec08e1ca9d27c4a843260f1919aa25,
+        type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 2147483647
       objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 42ec08e1ca9d27c4a843260f1919aa25, type: 3}
@@ -13295,6 +13660,11 @@ PrefabInstance:
       propertyPath: m_Name
       value: rocks_smallB
       objectReference: {fileID: 0}
+    - target: {fileID: 919132149155446097, guid: ba861f4bacba4c74c8d1cb1ff591ed82,
+        type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 2147483647
+      objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: ba861f4bacba4c74c8d1cb1ff591ed82, type: 3}
 --- !u!4 &1192132476 stripped
@@ -13399,6 +13769,11 @@ PrefabInstance:
         type: 3}
       propertyPath: m_Name
       value: crops_leafsStageB
+      objectReference: {fileID: 0}
+    - target: {fileID: 919132149155446097, guid: 5d482b15f687d5f48832d4fe252b81e5,
+        type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 2147483647
       objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 5d482b15f687d5f48832d4fe252b81e5, type: 3}
@@ -13667,6 +14042,11 @@ PrefabInstance:
       propertyPath: m_Name
       value: mushroom_tanGroup (1)
       objectReference: {fileID: 0}
+    - target: {fileID: 919132149155446097, guid: 7fd433208ae317143b839505a6125c0c,
+        type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 2147483647
+      objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 7fd433208ae317143b839505a6125c0c, type: 3}
 --- !u!1001 &1283169031
@@ -13745,6 +14125,11 @@ PrefabInstance:
         type: 3}
       propertyPath: m_Name
       value: mushroom_redGroup
+      objectReference: {fileID: 0}
+    - target: {fileID: 919132149155446097, guid: 756507f7c0ca40641a5ff09741d1d843,
+        type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 2147483647
       objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 756507f7c0ca40641a5ff09741d1d843, type: 3}
@@ -13831,6 +14216,11 @@ PrefabInstance:
       propertyPath: m_Name
       value: cliff_blockHalf_rock (4)
       objectReference: {fileID: 0}
+    - target: {fileID: 919132149155446097, guid: 81059eb4084a34d4893a66276bb2f000,
+        type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 2147483647
+      objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 81059eb4084a34d4893a66276bb2f000, type: 3}
 --- !u!4 &1297703119 stripped
@@ -13875,7 +14265,7 @@ GameObject:
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
-  m_StaticEditorFlags: 0
+  m_StaticEditorFlags: 2147483647
   m_IsActive: 1
 --- !u!114 &1317928074
 MonoBehaviour:
@@ -13988,7 +14378,7 @@ GameObject:
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
-  m_StaticEditorFlags: 0
+  m_StaticEditorFlags: 2147483647
   m_IsActive: 1
 --- !u!4 &1327619677
 Transform:
@@ -14184,6 +14574,11 @@ PrefabInstance:
       propertyPath: m_Name
       value: mushroom_tanGroup (2)
       objectReference: {fileID: 0}
+    - target: {fileID: 919132149155446097, guid: 7fd433208ae317143b839505a6125c0c,
+        type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 2147483647
+      objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 7fd433208ae317143b839505a6125c0c, type: 3}
 --- !u!1001 &1331674907
@@ -14272,6 +14667,11 @@ PrefabInstance:
         type: 3}
       propertyPath: m_Name
       value: terrain
+      objectReference: {fileID: 0}
+    - target: {fileID: 919132149155446097, guid: c7caef31419092c4d8ebf668d5e88e71,
+        type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 2147483647
       objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: c7caef31419092c4d8ebf668d5e88e71, type: 3}
@@ -14391,6 +14791,11 @@ PrefabInstance:
         type: 3}
       propertyPath: m_Name
       value: crops_leafsStageB (16)
+      objectReference: {fileID: 0}
+    - target: {fileID: 919132149155446097, guid: 5d482b15f687d5f48832d4fe252b81e5,
+        type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 2147483647
       objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 5d482b15f687d5f48832d4fe252b81e5, type: 3}
@@ -14590,6 +14995,11 @@ PrefabInstance:
       propertyPath: m_Name
       value: terrain_sideCliff
       objectReference: {fileID: 0}
+    - target: {fileID: 919132149155446097, guid: 42ec08e1ca9d27c4a843260f1919aa25,
+        type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 2147483647
+      objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 42ec08e1ca9d27c4a843260f1919aa25, type: 3}
 --- !u!4 &1385485885 stripped
@@ -14689,6 +15099,11 @@ PrefabInstance:
         type: 3}
       propertyPath: m_Name
       value: gate_complex (1)
+      objectReference: {fileID: 0}
+    - target: {fileID: 919132149155446097, guid: 45243951e08b72f47a36e14c70578a6e,
+        type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 2147483647
       objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 45243951e08b72f47a36e14c70578a6e, type: 3}
@@ -14824,6 +15239,11 @@ PrefabInstance:
       propertyPath: m_Name
       value: cliff_blockQuarter_stone
       objectReference: {fileID: 0}
+    - target: {fileID: 919132149155446097, guid: 51804497169438c4690efdca25e36621,
+        type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 2147483647
+      objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 51804497169438c4690efdca25e36621, type: 3}
 --- !u!4 &1421213696 stripped
@@ -14923,6 +15343,11 @@ PrefabInstance:
         type: 3}
       propertyPath: m_Name
       value: cliff_blockQuarter_stone (2)
+      objectReference: {fileID: 0}
+    - target: {fileID: 919132149155446097, guid: 51804497169438c4690efdca25e36621,
+        type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 2147483647
       objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 51804497169438c4690efdca25e36621, type: 3}
@@ -15089,6 +15514,11 @@ PrefabInstance:
       propertyPath: m_Name
       value: rock_tallB
       objectReference: {fileID: 0}
+    - target: {fileID: 919132149155446097, guid: 8fc30653c71ef4e47b3bcd51d25dfaf2,
+        type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 2147483647
+      objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 8fc30653c71ef4e47b3bcd51d25dfaf2, type: 3}
 --- !u!1001 &1436264056
@@ -15168,6 +15598,11 @@ PrefabInstance:
       propertyPath: m_Name
       value: mushroom_redGroup (5)
       objectReference: {fileID: 0}
+    - target: {fileID: 919132149155446097, guid: 756507f7c0ca40641a5ff09741d1d843,
+        type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 2147483647
+      objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 756507f7c0ca40641a5ff09741d1d843, type: 3}
 --- !u!1001 &1437941136
@@ -15246,6 +15681,11 @@ PrefabInstance:
         type: 3}
       propertyPath: m_Name
       value: mushroom_tanGroup (3)
+      objectReference: {fileID: 0}
+    - target: {fileID: 919132149155446097, guid: 7fd433208ae317143b839505a6125c0c,
+        type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 2147483647
       objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 7fd433208ae317143b839505a6125c0c, type: 3}
@@ -15353,6 +15793,11 @@ PrefabInstance:
       propertyPath: m_Name
       value: crops_leafsStageB (13)
       objectReference: {fileID: 0}
+    - target: {fileID: 919132149155446097, guid: 5d482b15f687d5f48832d4fe252b81e5,
+        type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 2147483647
+      objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 5d482b15f687d5f48832d4fe252b81e5, type: 3}
 --- !u!1001 &1475204300
@@ -15422,10 +15867,20 @@ PrefabInstance:
       propertyPath: m_Materials.Array.data[1]
       value: 
       objectReference: {fileID: 2100000, guid: 1cf5124684cff6247a934452dc5c108a, type: 2}
+    - target: {fileID: -6920690623926577443, guid: 15226a7b295bb384a86b7b41edec8c4d,
+        type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 2147483647
+      objectReference: {fileID: 0}
     - target: {fileID: 919132149155446097, guid: 15226a7b295bb384a86b7b41edec8c4d,
         type: 3}
       propertyPath: m_Name
       value: machine_wirelessCable
+      objectReference: {fileID: 0}
+    - target: {fileID: 919132149155446097, guid: 15226a7b295bb384a86b7b41edec8c4d,
+        type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 2147483647
       objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 15226a7b295bb384a86b7b41edec8c4d, type: 3}
@@ -15563,6 +16018,11 @@ PrefabInstance:
         type: 3}
       propertyPath: m_Name
       value: terrain_sideCliff (11)
+      objectReference: {fileID: 0}
+    - target: {fileID: 919132149155446097, guid: 42ec08e1ca9d27c4a843260f1919aa25,
+        type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 2147483647
       objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 42ec08e1ca9d27c4a843260f1919aa25, type: 3}
@@ -15739,6 +16199,11 @@ PrefabInstance:
       propertyPath: m_Layer
       value: 6
       objectReference: {fileID: 0}
+    - target: {fileID: 919132149155446097, guid: 05e1cec7227b02240a5b5329412e470e,
+        type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 0
+      objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 05e1cec7227b02240a5b5329412e470e, type: 3}
 --- !u!4 &1504397301 stripped
@@ -15855,6 +16320,11 @@ PrefabInstance:
       propertyPath: m_Name
       value: crops_leafsStageA (6)
       objectReference: {fileID: 0}
+    - target: {fileID: 919132149155446097, guid: eb725d40f93d6544396781a9dfe2f970,
+        type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 2147483647
+      objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: eb725d40f93d6544396781a9dfe2f970, type: 3}
 --- !u!1001 &1509549528
@@ -15934,6 +16404,11 @@ PrefabInstance:
       propertyPath: m_Name
       value: mushroom_tanTall
       objectReference: {fileID: 0}
+    - target: {fileID: 919132149155446097, guid: 3cddcba770f419349a54ed36bba86c37,
+        type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 2147483647
+      objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 3cddcba770f419349a54ed36bba86c37, type: 3}
 --- !u!4 &1515234898 stripped
@@ -15964,7 +16439,7 @@ GameObject:
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
-  m_StaticEditorFlags: 0
+  m_StaticEditorFlags: 2147483647
   m_IsActive: 1
 --- !u!114 &1539146661
 MonoBehaviour:
@@ -20999,6 +21474,11 @@ PrefabInstance:
       propertyPath: m_Name
       value: terrain_sideCliff (12)
       objectReference: {fileID: 0}
+    - target: {fileID: 919132149155446097, guid: 42ec08e1ca9d27c4a843260f1919aa25,
+        type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 2147483647
+      objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 42ec08e1ca9d27c4a843260f1919aa25, type: 3}
 --- !u!4 &1596035432 stripped
@@ -21098,6 +21578,11 @@ PrefabInstance:
       propertyPath: m_Name
       value: mushroom_tanGroup
       objectReference: {fileID: 0}
+    - target: {fileID: 919132149155446097, guid: 7fd433208ae317143b839505a6125c0c,
+        type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 2147483647
+      objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 7fd433208ae317143b839505a6125c0c, type: 3}
 --- !u!1001 &1615731936
@@ -21191,6 +21676,11 @@ PrefabInstance:
         type: 3}
       propertyPath: m_Name
       value: rock_tallB (6)
+      objectReference: {fileID: 0}
+    - target: {fileID: 919132149155446097, guid: 8fc30653c71ef4e47b3bcd51d25dfaf2,
+        type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 2147483647
       objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 8fc30653c71ef4e47b3bcd51d25dfaf2, type: 3}
@@ -21306,6 +21796,11 @@ PrefabInstance:
       propertyPath: m_Name
       value: rock_largeA (2)
       objectReference: {fileID: 0}
+    - target: {fileID: 919132149155446097, guid: 0256289f47fef7c4ca3326efee7f8970,
+        type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 2147483647
+      objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 0256289f47fef7c4ca3326efee7f8970, type: 3}
 --- !u!4 &1627097249 stripped
@@ -21405,6 +21900,11 @@ PrefabInstance:
         type: 3}
       propertyPath: m_Name
       value: terrain_sideCliff (1)
+      objectReference: {fileID: 0}
+    - target: {fileID: 919132149155446097, guid: 42ec08e1ca9d27c4a843260f1919aa25,
+        type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 2147483647
       objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 42ec08e1ca9d27c4a843260f1919aa25, type: 3}
@@ -21590,6 +22090,11 @@ PrefabInstance:
       propertyPath: m_Name
       value: rock_tallB (2)
       objectReference: {fileID: 0}
+    - target: {fileID: 919132149155446097, guid: 8fc30653c71ef4e47b3bcd51d25dfaf2,
+        type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 2147483647
+      objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 8fc30653c71ef4e47b3bcd51d25dfaf2, type: 3}
 --- !u!1001 &1656307266
@@ -21663,6 +22168,11 @@ PrefabInstance:
         type: 3}
       propertyPath: m_Name
       value: crops_leafsStageB (7)
+      objectReference: {fileID: 0}
+    - target: {fileID: 919132149155446097, guid: 5d482b15f687d5f48832d4fe252b81e5,
+        type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 2147483647
       objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 5d482b15f687d5f48832d4fe252b81e5, type: 3}
@@ -21764,6 +22274,11 @@ PrefabInstance:
       propertyPath: m_Name
       value: cliff_blockQuarter_stone (1)
       objectReference: {fileID: 0}
+    - target: {fileID: 919132149155446097, guid: 51804497169438c4690efdca25e36621,
+        type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 2147483647
+      objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 51804497169438c4690efdca25e36621, type: 3}
 --- !u!1001 &1706807641
@@ -21837,6 +22352,11 @@ PrefabInstance:
         type: 3}
       propertyPath: m_Name
       value: crops_leafsStageA (4)
+      objectReference: {fileID: 0}
+    - target: {fileID: 919132149155446097, guid: eb725d40f93d6544396781a9dfe2f970,
+        type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 2147483647
       objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: eb725d40f93d6544396781a9dfe2f970, type: 3}
@@ -21917,6 +22437,11 @@ PrefabInstance:
         type: 3}
       propertyPath: m_Name
       value: crops_leafsStageB (17)
+      objectReference: {fileID: 0}
+    - target: {fileID: 919132149155446097, guid: 5d482b15f687d5f48832d4fe252b81e5,
+        type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 2147483647
       objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 5d482b15f687d5f48832d4fe252b81e5, type: 3}
@@ -22088,6 +22613,11 @@ PrefabInstance:
       propertyPath: m_Name
       value: cliff_halfCornerInner_rock (1)
       objectReference: {fileID: 0}
+    - target: {fileID: 919132149155446097, guid: a006d8da6e4ea4e46a5636a427ca19b3,
+        type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 2147483647
+      objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: a006d8da6e4ea4e46a5636a427ca19b3, type: 3}
 --- !u!1001 &1776893528
@@ -22177,6 +22707,11 @@ PrefabInstance:
       propertyPath: m_Name
       value: crops_dirtDoubleRow
       objectReference: {fileID: 0}
+    - target: {fileID: 919132149155446097, guid: f29411379a9049742836fa306ca5f6bb,
+        type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 2147483647
+      objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: f29411379a9049742836fa306ca5f6bb, type: 3}
 --- !u!4 &1776893529 stripped
@@ -22256,6 +22791,11 @@ PrefabInstance:
         type: 3}
       propertyPath: m_Name
       value: satelliteDish_detailed
+      objectReference: {fileID: 0}
+    - target: {fileID: 919132149155446097, guid: d0e1673d66d047c4f9b8b6e5e2cef459,
+        type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 2147483647
       objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: d0e1673d66d047c4f9b8b6e5e2cef459, type: 3}
@@ -22342,6 +22882,11 @@ PrefabInstance:
       propertyPath: m_Name
       value: cliff_blockHalf_rock
       objectReference: {fileID: 0}
+    - target: {fileID: 919132149155446097, guid: 81059eb4084a34d4893a66276bb2f000,
+        type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 2147483647
+      objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 81059eb4084a34d4893a66276bb2f000, type: 3}
 --- !u!1001 &1797813163
@@ -22420,6 +22965,11 @@ PrefabInstance:
         type: 3}
       propertyPath: m_Name
       value: cliff_blockHalf_rock (1)
+      objectReference: {fileID: 0}
+    - target: {fileID: 919132149155446097, guid: 81059eb4084a34d4893a66276bb2f000,
+        type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 2147483647
       objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 81059eb4084a34d4893a66276bb2f000, type: 3}
@@ -22527,6 +23077,11 @@ PrefabInstance:
       propertyPath: m_Name
       value: crops_leafsStageB (10)
       objectReference: {fileID: 0}
+    - target: {fileID: 919132149155446097, guid: 5d482b15f687d5f48832d4fe252b81e5,
+        type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 2147483647
+      objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 5d482b15f687d5f48832d4fe252b81e5, type: 3}
 --- !u!1001 &1835480249
@@ -22620,6 +23175,11 @@ PrefabInstance:
         type: 3}
       propertyPath: m_Name
       value: terrain_sideCliff (13)
+      objectReference: {fileID: 0}
+    - target: {fileID: 919132149155446097, guid: 42ec08e1ca9d27c4a843260f1919aa25,
+        type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 2147483647
       objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 42ec08e1ca9d27c4a843260f1919aa25, type: 3}
@@ -22720,6 +23280,11 @@ PrefabInstance:
       propertyPath: m_Name
       value: gate_complex
       objectReference: {fileID: 0}
+    - target: {fileID: 919132149155446097, guid: 45243951e08b72f47a36e14c70578a6e,
+        type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 2147483647
+      objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 45243951e08b72f47a36e14c70578a6e, type: 3}
 --- !u!4 &1844058262 stripped
@@ -22814,6 +23379,11 @@ PrefabInstance:
       propertyPath: m_Name
       value: crops_leafsStageB (2)
       objectReference: {fileID: 0}
+    - target: {fileID: 919132149155446097, guid: 5d482b15f687d5f48832d4fe252b81e5,
+        type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 2147483647
+      objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 5d482b15f687d5f48832d4fe252b81e5, type: 3}
 --- !u!1001 &1857577509
@@ -22892,6 +23462,11 @@ PrefabInstance:
         type: 3}
       propertyPath: m_Name
       value: mushroom_red (2)
+      objectReference: {fileID: 0}
+    - target: {fileID: 919132149155446097, guid: 990f530588588394781543628d7b3533,
+        type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 2147483647
       objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 990f530588588394781543628d7b3533, type: 3}
@@ -22986,6 +23561,11 @@ PrefabInstance:
         type: 3}
       propertyPath: m_Name
       value: rock_largeA
+      objectReference: {fileID: 0}
+    - target: {fileID: 919132149155446097, guid: 0256289f47fef7c4ca3326efee7f8970,
+        type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 2147483647
       objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 0256289f47fef7c4ca3326efee7f8970, type: 3}
@@ -23106,6 +23686,11 @@ PrefabInstance:
         type: 3}
       propertyPath: m_Name
       value: cliff_halfCornerInner_rock
+      objectReference: {fileID: 0}
+    - target: {fileID: 919132149155446097, guid: a006d8da6e4ea4e46a5636a427ca19b3,
+        type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 2147483647
       objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: a006d8da6e4ea4e46a5636a427ca19b3, type: 3}
@@ -23353,6 +23938,11 @@ PrefabInstance:
       propertyPath: m_Name
       value: rock_tallH
       objectReference: {fileID: 0}
+    - target: {fileID: 919132149155446097, guid: 95d78bab9f141d24c8e2b4bce0ced0de,
+        type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 2147483647
+      objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 95d78bab9f141d24c8e2b4bce0ced0de, type: 3}
 --- !u!4 &1914222477 stripped
@@ -23438,6 +24028,11 @@ PrefabInstance:
         type: 3}
       propertyPath: m_Name
       value: cliff_blockHalf_rock (3)
+      objectReference: {fileID: 0}
+    - target: {fileID: 919132149155446097, guid: 81059eb4084a34d4893a66276bb2f000,
+        type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 2147483647
       objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 81059eb4084a34d4893a66276bb2f000, type: 3}
@@ -23559,6 +24154,11 @@ PrefabInstance:
       propertyPath: m_Name
       value: cliff_halfCorner_rock
       objectReference: {fileID: 0}
+    - target: {fileID: 919132149155446097, guid: 1edc13ef87705c543b88bb4363634789,
+        type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 2147483647
+      objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 1edc13ef87705c543b88bb4363634789, type: 3}
 --- !u!1 &1946414379 stripped
@@ -23663,6 +24263,11 @@ PrefabInstance:
       propertyPath: m_Name
       value: crop_turnip (1)
       objectReference: {fileID: 0}
+    - target: {fileID: 919132149155446097, guid: 8a9c38c534e07e14aa047bab2b5b409e,
+        type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 2147483647
+      objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 8a9c38c534e07e14aa047bab2b5b409e, type: 3}
 --- !u!1001 &1959195574
@@ -23751,6 +24356,11 @@ PrefabInstance:
         type: 3}
       propertyPath: m_Name
       value: terrain (2)
+      objectReference: {fileID: 0}
+    - target: {fileID: 919132149155446097, guid: c7caef31419092c4d8ebf668d5e88e71,
+        type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 2147483647
       objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: c7caef31419092c4d8ebf668d5e88e71, type: 3}
@@ -23871,6 +24481,11 @@ PrefabInstance:
       propertyPath: m_Name
       value: rock_tallB (1)
       objectReference: {fileID: 0}
+    - target: {fileID: 919132149155446097, guid: 8fc30653c71ef4e47b3bcd51d25dfaf2,
+        type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 2147483647
+      objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 8fc30653c71ef4e47b3bcd51d25dfaf2, type: 3}
 --- !u!1001 &1959937837
@@ -23944,6 +24559,11 @@ PrefabInstance:
         type: 3}
       propertyPath: m_Name
       value: crops_leafsStageA (2)
+      objectReference: {fileID: 0}
+    - target: {fileID: 919132149155446097, guid: eb725d40f93d6544396781a9dfe2f970,
+        type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 2147483647
       objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: eb725d40f93d6544396781a9dfe2f970, type: 3}
@@ -24025,6 +24645,11 @@ PrefabInstance:
       propertyPath: m_Name
       value: crops_leafsStageA (7)
       objectReference: {fileID: 0}
+    - target: {fileID: 919132149155446097, guid: eb725d40f93d6544396781a9dfe2f970,
+        type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 2147483647
+      objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: eb725d40f93d6544396781a9dfe2f970, type: 3}
 --- !u!1001 &1966814891
@@ -24098,6 +24723,11 @@ PrefabInstance:
         type: 3}
       propertyPath: m_Name
       value: crops_leafsStageB (18)
+      objectReference: {fileID: 0}
+    - target: {fileID: 919132149155446097, guid: 5d482b15f687d5f48832d4fe252b81e5,
+        type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 2147483647
       objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 5d482b15f687d5f48832d4fe252b81e5, type: 3}
@@ -24217,6 +24847,11 @@ PrefabInstance:
         type: 3}
       propertyPath: m_Name
       value: cliff_blockHalf_rock (11)
+      objectReference: {fileID: 0}
+    - target: {fileID: 919132149155446097, guid: 81059eb4084a34d4893a66276bb2f000,
+        type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 2147483647
       objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 81059eb4084a34d4893a66276bb2f000, type: 3}
@@ -24470,6 +25105,11 @@ PrefabInstance:
       propertyPath: m_Name
       value: cliff_blockHalf_rock (15)
       objectReference: {fileID: 0}
+    - target: {fileID: 919132149155446097, guid: 81059eb4084a34d4893a66276bb2f000,
+        type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 2147483647
+      objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 81059eb4084a34d4893a66276bb2f000, type: 3}
 --- !u!4 &1985178547 stripped
@@ -24569,6 +25209,11 @@ PrefabInstance:
       propertyPath: m_Name
       value: cliff_diagonal_rock
       objectReference: {fileID: 0}
+    - target: {fileID: 919132149155446097, guid: e38a2aeee5fe0bd45a527b9d62a4d970,
+        type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 2147483647
+      objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: e38a2aeee5fe0bd45a527b9d62a4d970, type: 3}
 --- !u!4 &2011429070 stripped
@@ -24663,6 +25308,11 @@ PrefabInstance:
         type: 3}
       propertyPath: m_Name
       value: cliff_cave_rock (1)
+      objectReference: {fileID: 0}
+    - target: {fileID: 919132149155446097, guid: 0893a1319d216b941b7f911d0929fd34,
+        type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 2147483647
       objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 0893a1319d216b941b7f911d0929fd34, type: 3}
@@ -24850,6 +25500,11 @@ PrefabInstance:
       propertyPath: m_Name
       value: cliff_blockHalf_rock (10)
       objectReference: {fileID: 0}
+    - target: {fileID: 919132149155446097, guid: 81059eb4084a34d4893a66276bb2f000,
+        type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 2147483647
+      objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 81059eb4084a34d4893a66276bb2f000, type: 3}
 --- !u!1001 &2059821602
@@ -24943,6 +25598,11 @@ PrefabInstance:
         type: 3}
       propertyPath: m_Name
       value: terrain_sideCliff (3)
+      objectReference: {fileID: 0}
+    - target: {fileID: 919132149155446097, guid: 42ec08e1ca9d27c4a843260f1919aa25,
+        type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 2147483647
       objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 42ec08e1ca9d27c4a843260f1919aa25, type: 3}
@@ -25058,6 +25718,11 @@ PrefabInstance:
       propertyPath: m_Name
       value: rock_smallFlatA
       objectReference: {fileID: 0}
+    - target: {fileID: 919132149155446097, guid: a1a858b29443ae3429597c940d3b6698,
+        type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 2147483647
+      objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: a1a858b29443ae3429597c940d3b6698, type: 3}
 --- !u!4 &2064035822 stripped
@@ -25158,6 +25823,11 @@ PrefabInstance:
         type: 3}
       propertyPath: m_Name
       value: cliff_cave_rock
+      objectReference: {fileID: 0}
+    - target: {fileID: 919132149155446097, guid: 0893a1319d216b941b7f911d0929fd34,
+        type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 2147483647
       objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 0893a1319d216b941b7f911d0929fd34, type: 3}
@@ -25278,6 +25948,11 @@ PrefabInstance:
         type: 3}
       propertyPath: m_Name
       value: terrain_sideCliff (5)
+      objectReference: {fileID: 0}
+    - target: {fileID: 919132149155446097, guid: 42ec08e1ca9d27c4a843260f1919aa25,
+        type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 2147483647
       objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 42ec08e1ca9d27c4a843260f1919aa25, type: 3}
@@ -25425,6 +26100,11 @@ PrefabInstance:
       propertyPath: m_Name
       value: rock_largeA (1)
       objectReference: {fileID: 0}
+    - target: {fileID: 919132149155446097, guid: 0256289f47fef7c4ca3326efee7f8970,
+        type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 2147483647
+      objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 0256289f47fef7c4ca3326efee7f8970, type: 3}
 --- !u!4 &2107474098 stripped
@@ -25537,6 +26217,11 @@ PrefabInstance:
       propertyPath: m_Name
       value: crops_leafsStageA (8)
       objectReference: {fileID: 0}
+    - target: {fileID: 919132149155446097, guid: eb725d40f93d6544396781a9dfe2f970,
+        type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 2147483647
+      objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: eb725d40f93d6544396781a9dfe2f970, type: 3}
 --- !u!1 &2126873735 stripped
@@ -25632,6 +26317,11 @@ PrefabInstance:
       propertyPath: m_Name
       value: platform_center
       objectReference: {fileID: 0}
+    - target: {fileID: 919132149155446097, guid: 0b52c8bee93044a4eb4f65a12e9e361f,
+        type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 2147483647
+      objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 0b52c8bee93044a4eb4f65a12e9e361f, type: 3}
 --- !u!1 &2144873283 stripped
@@ -25704,7 +26394,7 @@ GameObject:
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
-  m_StaticEditorFlags: 0
+  m_StaticEditorFlags: 2147483647
   m_IsActive: 1
 --- !u!108 &2114283754330233425
 Light:
@@ -25761,8 +26451,8 @@ Light:
   m_LightShadowCasterMode: 0
   m_AreaSize: {x: 1, y: 1}
   m_BounceIntensity: 1
-  m_ColorTemperature: 6570
-  m_UseColorTemperature: 0
+  m_ColorTemperature: 6776
+  m_UseColorTemperature: 1
   m_BoundingSphereOverride: {x: 2.2e-44, y: 0, z: 0, w: 2.3164883}
   m_UseBoundingSphereOverride: 0
   m_UseViewFrustumForShadowCasterCull: 1
