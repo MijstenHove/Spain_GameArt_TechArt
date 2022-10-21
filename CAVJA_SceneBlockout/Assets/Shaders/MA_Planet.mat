@@ -54,8 +54,8 @@ Material:
     m_Floats:
     - _QueueControl: 0
     - _QueueOffset: 0
-    - _power: 7.56
+    - _power: 4.84
     m_Colors:
-    - _ColorFrech: {r: 0, g: 7.999999, b: 7.2103534, a: 1}
-    - _Colorplanet: {r: 0.53207546, g: 1, b: 0.80247164, a: 0}
+    - _ColorFrech: {r: 7.999999, g: 3.5540276, b: 0, a: 1}
+    - _Colorplanet: {r: 1, g: 0.53333336, b: 0.8936731, a: 0}
   m_BuildTextureStacks: []
